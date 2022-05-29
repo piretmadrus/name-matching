@@ -1,0 +1,7 @@
+server:
+  servlet.context-path: /name-matcher
+  port: 8083
+
+file:
+  line-length: 100
+  file-length: 50000
